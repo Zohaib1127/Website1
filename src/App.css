@@ -1,0 +1,21 @@
+
+#names{
+    /* horizantal vertical blur color */
+    text-shadow: 2px 2px 4px white;
+}
+
+#fp{
+    text-shadow: 2px 2px 4px blue;
+}
+#sp{
+    text-shadow: 2px 2px 2px white;
+}
+h1{
+     text-shadow: 2px 2px 4px white;
+}
+h2{
+     text-shadow: 2px 2px 4px white;
+}
+h3{
+     text-shadow: 2px 2px 4px white;
+}
